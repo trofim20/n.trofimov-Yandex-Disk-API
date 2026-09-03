@@ -21,7 +21,7 @@
 ```json
 {
   "testData": {
-    "accessToken": "y0__wgBELbvq_8IGIzHRiDxobryGDDj9v-GCQlnfTs2UzNnraI6RrNw1SvDRAQN",
+    "accessToken": "",
     "apiUrl": "https://cloud-api.yandex.net/v1/disk"
   }
 }
